@@ -1,0 +1,9 @@
+{
+    "users":  [
+                  {
+                      "userPassword":  "H@ppy12345",
+                      "userName":  "test123"
+                  }
+              ],
+    "loginUrl":  "https://cnb020perf.abrigo.com/BAMPlus/"
+}
